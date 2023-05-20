@@ -1,0 +1,15 @@
+.link-google{
+    display: block;
+    text-decoration: none;
+    background-color: brown;
+   padding: 0.5rem 1.5rem ;
+   width: 5rem;
+   height: 2rem;
+   margin: 1.5rem 12.0rem;
+
+}
+
+h1{
+    color: blue;
+    
+}
