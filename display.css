@@ -1,17 +1,83 @@
-.link-google{
+.link-google{ text-align: center;
+    display: block;
+    text-decoration: none;
+    background-color:burlywood;
+   padding: 0.5rem 1.;5rem ;
+   width: 5rem;
+   height: 2rem;
+   margin: 5.10rem 0.50rem;
+   border: 4.5px solid black;
+   /* used -position absolute*/
+   position:absolute;
+   top: 13rem;
+   left:25rem ;
+
+
+}
+.link-facebook{
+    text-align: center;
+    background-color: aqua;
+    text-decoration: none;
+    display: block;
+    padding: 0.5rem 1.5rem ;
+    width: 5rem;
+    height: 2rem;
+    margin: 5.5rem 0.50rem;
+    border: 4.5px solid black;
+    /*USED -POSITION RELATIVE*/
+    position: relative;
+    top: 45rem;
+    left: 27rem;
+   }
+
+h1{
+    color: blue;
+    text-decoration:underline ;
+    position: fixed;
+    top: -1rem;;
+
+}
+
+.box-one{
+    display: block;
+    font-size: 2rem;
+    background-color: indianred;
+    text-align: center;
+    padding: 2.5em;
+    width: 20rem;
+    height: 20rem;
+    margin: 1.5rem  25.0rem;
+    border: 0.1rem solid blue;
+
+}
+
+.box-two{
+    display: block;
+    font-size: 2rem;
+    background-color: yellowgreen;
+    text-align: center;
+    padding: 2.5em;
+    width: 12rem;
+    height: 30rem;
+    margin: 1.5rem  27.0rem;
+    border: 0.2rem solid black;
+ 
+
+}
+
+.link-instagram{
     display: block;
     text-decoration: none;
     background-color: brown;
    padding: 0.5rem 1.5rem ;
    width: 5rem;
    height: 2rem;
-   margin: 1.5rem 12.0rem;
+   margin: 5.10rem 0.50rem;
    border: 4.5px solid black;
+ /*USED-POSITION FIXED*/  
+position: fixed;
+top: 22rem;
+left: 25rem;
 
 
-}
-
-h1{
-    color: blue;
-    
 }
